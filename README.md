@@ -26,12 +26,12 @@ Python 3.12+ · FastAPI · Redis · PostgreSQL · Claude API · OpenAI API · Mu
 
 ## Projects
 
-- [archon3](https://github.com/Inthrabachlej/archon3) — Multi-agent orchestration prototype
-- [archon2](https://github.com/Inthrabachlej/archon2) — AI-assisted software generation
-- [blackbox-raven](https://github.com/Inthrabachlej/blackbox-raven) — Local AI terminal operator for Claude
-- [voice-to-text](https://github.com/Inthrabachlej/voice-to-text) — Offline voice transcription tools
-- [pixctl](https://github.com/Inthrabachlej/pixctl) — Local image upscaling toolkit
+- [archon3](https://github.com/alexbachlej/archon3) — Multi-agent orchestration prototype
+- [archon2](https://github.com/alexbachlej/archon2) — AI-assisted software generation
+- [blackbox-raven](https://github.com/alexbachlej/blackbox-raven) — Local AI terminal operator for Claude
+- [voice-to-text](https://github.com/alexbachlej/voice-to-text) — Offline voice transcription tools
+- [pixctl](https://github.com/alexbachlej/pixctl) — Local image upscaling toolkit
 
 ---
 
-Belgium · [alexbachlej.com](https://alexbachlej.com) · [LinkedIn](https://linkedin.com/in/cezarybachlej)
+Belgium · [alexbachlej.com](https://alexbachlej.com) · [LinkedIn](https://www.linkedin.com/in/alexbachlej/) · [Instagram](https://www.instagram.com/alexbachlej/)
